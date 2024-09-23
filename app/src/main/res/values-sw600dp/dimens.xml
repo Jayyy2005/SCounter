@@ -1,0 +1,5 @@
+<resources>
+        <dimen name="padding_standard">24dp</dimen>  <!-- Increased padding -->
+        <dimen name="text_size_large">34sp</dimen>   <!-- Increased text size -->
+        <dimen name="text_size_medium">24sp</dimen>  <!-- Increased text size -->
+</resources>
